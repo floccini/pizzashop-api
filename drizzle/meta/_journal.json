@@ -15,6 +15,20 @@
       "when": 1708037057074,
       "tag": "0001_absent_agent_brand",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1708037350395,
+      "tag": "0002_broad_vulture",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1708037437686,
+      "tag": "0003_icy_reaper",
+      "breakpoints": true
     }
   ]
 }
