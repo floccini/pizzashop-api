@@ -1,0 +1,20 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1708036956329,
+      "tag": "0000_same_doctor_strange",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1708037057074,
+      "tag": "0001_absent_agent_brand",
+      "breakpoints": true
+    }
+  ]
+}
